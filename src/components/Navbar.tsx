@@ -26,10 +26,7 @@ export default function Navbar() {
         ))}
       </div>
 
-      <Button 
-        onClick={() => window.location.href = 'mailto:Ahasanulhabib@gmail.com'}
-        className="bg-white text-black hover:bg-white/90 rounded-full px-4 py-1.5 text-xs h-auto flex items-center gap-1 group"
-      >
+      <Button className="bg-white text-black hover:bg-white/90 rounded-full px-4 py-1.5 text-xs h-auto flex items-center gap-1 group">
         Let's Talk
         <ArrowUpRight className="w-3 h-3 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
       </Button>

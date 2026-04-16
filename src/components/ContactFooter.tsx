@@ -45,7 +45,7 @@ export default function ContactFooter() {
 
           <div className="flex flex-col md:flex-row items-center justify-center gap-6">
             <a 
-              href="mailto:Ahasanulhabib@gmail.com"
+              href="mailto:safinbakshi013@gmail.com"
               className="liquid-glass-strong rounded-full px-10 py-5 text-white flex items-center gap-3 group transition-transform hover:scale-105"
             >
               <Mail className="w-5 h-5" />
